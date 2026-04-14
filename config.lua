@@ -4,7 +4,7 @@ Config = {}
 Config.Token = "SEU_TOKEN_AQUI"
 
 -- URL da API (nao altere)
-Config.ApiUrl = "https://arcapay.org/api/v1/fivem"
+Config.ApiUrl = "https://arcapay.org/api/v1"
 
 -- Intervalo de polling em ms (10000 = 10 segundos)
 Config.PollInterval = 10000
